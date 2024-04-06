@@ -37,3 +37,4 @@ portion of the assessment
 2. **Delete the `node_modules` directory**
 3. Zip up your folder
 4. Upload it
+# PracticeAssessment
